@@ -2,6 +2,12 @@
 
 Web-based background remover built with FastAPI and [rembg](https://github.com/danielgatis/rembg).
 
+![demo](demo1.png)
+
+---
+
+![demo](demo2.png)
+
 ## Features
 
 - Drag & drop or file picker upload
